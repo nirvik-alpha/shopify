@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:padding="40dp"
+    android:gravity="center"
+    android:background="@color/off"
+    android:orientation="vertical"
+    tools:context=".TotalActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       android:text="Total Bill:"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+
+        />
+
+    <TextView
+        android:id="@+id/totalamountid"
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="20"
+        android:textStyle="bold"
+        android:textColor="#224F73"
+        android:textSize="25sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+
+        />
+    <TextView
+        android:layout_marginLeft="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tk"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+
+        />
+    <Button
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:text="Proceed"
+        android:id="@+id/proceedid"
+        android:textSize="20sp"
+        android:background="@drawable/buton_background"
+        android:layout_height="wrap_content"
+
+        />
+
+
+</LinearLayout>
