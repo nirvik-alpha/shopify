@@ -7,16 +7,16 @@ This application is a kind of shopping mall application .Through this app people
 
 ## Software Specification 
 
-*Android version : Marshmellow(V.6.0)
-*Database : Firebase
+* Android version : Marshmellow(V.6.0)
+* Database : Firebase
 
 ## Project Functionality and Key Features 
 
-*Easy sign up/sign in process
-*Product category 
-*Detailed product information 
-*Managing order and return 
-*Sending notifications 
-*Order summary
+* Easy sign up/sign in process
+* Product category 
+* Detailed product information 
+* Managing order and return 
+* Sending notifications 
+* Order summary
 
 
