@@ -21,6 +21,8 @@ This application is a kind of shopping mall application .Through this app people
 * Order summary
 
 Wanna Run this project ? Yeah You can run this project . Just download the full project. 
---> As i build this project a long time ago , currently it gives an error in running . Because Android Studio version changes gradually. There are some things needs to be changed in the dependancy section . However you can easily run this project by fixing some dependency issues . Hopefully it will be fixed soon!   
 
-Here you will find some of the screenshots of the shopify app> https://github.com/nirvik-alpha/shopify/tree/main/Some%20ScreenShots
+* As i build this project a long time ago , currently it gives an error in running . Because Android Studio version changes gradually. There are some things needs to be changed in the dependancy section . However you can easily run this project by fixing some dependency issues . Hopefully it will be fixed soon !   
+
+
+Here you will find some of the screenshots of the shopify app > https://github.com/nirvik-alpha/shopify/tree/main/Some%20ScreenShots
