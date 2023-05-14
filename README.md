@@ -19,4 +19,4 @@ This application is a kind of shopping mall application .Through this app people
 * Sending notifications 
 * Order summary
 
-
+Here you will find some of the screenshots of the shopify app> https://github.com/nirvik-alpha/shopify/tree/main/Some%20ScreenShots
