@@ -3,7 +3,7 @@
 This is our Software Development Lab project .This is an android application development project. This is basically an online shopping mall app. In this app people will be able to buy their necessary products online.
 
 ## Summary 
-This application is a kind of shopping mall application .Through this app people can order and buy their necessary products from home .They don’t need to come to the shop.There is a easy sign-in,sign-up process.Customer can easily sign in.Customer can view product information . They can manage their order . If they want to return a product they can do it as well .
+This application is a kind of shopping mall application .Through this app people can order and buy their necessary products from home .They don’t need to come to the shop.There is a easy sign-in,sign-up process which is connected with firebase. Customer can share this app and feedback their opinion. Customer can view category and see all the product information . There is a add to cart system. Once they order the items will be added to myorder . They can manage their order easily. There is an easy shipping system .
 
 ## Software Specification 
 
@@ -13,10 +13,13 @@ This application is a kind of shopping mall application .Through this app people
 
 ## Project Functionality and Key Features 
 
-* Easy sign up/sign in process
+* Easy sign up/sign in process with firebase authentication
+* Home page
+* Share + Feedback option
 * Product category 
-* Detailed product information 
-* Managing order and return 
+* Detailed product information
+* Add to cart 
+* Managing order 
 * Sending notifications 
 * Order summary
 
