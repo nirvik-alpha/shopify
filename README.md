@@ -24,18 +24,18 @@ Wanna Run this project ? Just download it.
 
 Here you will find some of the screenshots of the shopify app >>
 
-<img src="./S_Shots/login.png" width="300" height="500" title="" />     <img src="./S_Shots/log2.png" width="300" height="500" title="" /> 
+<img src="./S_Shots/login.jpg" width="300" height="500" title="" />     <img src="./S_Shots/log2.jpg" width="300" height="500" title="" /> 
 
-<img src="./S_Shots/reg.png" width="300" height="500" title="" />     <img src="./S_Shots/home.png" width="300" height="500" title="" /> 
+<img src="./S_Shots/reg.jpg" width="300" height="500" title="" />     <img src="./S_Shots/home.jpg" width="300" height="500" title="" /> 
 
-<img src="./S_Shots/share.png" width="300" height="500" title="" />     <img src="./S_Shots/feedback.png" width="300" height="500" title="" /> 
+<img src="./S_Shots/share.jpg" width="300" height="500" title="" />     <img src="./S_Shots/feedback.jpg" width="300" height="500" title="" /> 
 
-<img src="./S_Shots/log.png" width="300" height="500" title="" />     <img src="./S_Shots/category.png" width="300" height="500" title="" /> 
+<img src="./S_Shots/log.jpg" width="300" height="500" title="" />     <img src="./S_Shots/category.jpg" width="300" height="500" title="" /> 
 
-<img src="./S_Shots/fashion.png" width="300" height="500" title="" />     <img src="./S_Shots/elec.png" width="300" height="500" title="" /> 
+<img src="./S_Shots/fashion.jpg" width="300" height="500" title="" />     <img src="./S_Shots/elec.jpg" width="300" height="500" title="" /> 
 
-<img src="./S_Shots/grocery.png" width="300" height="500" title="" />     <img src="./S_Shots/sports.png" width="300" height="500" title="" /> 
+<img src="./S_Shots/grocery.jpg" width="300" height="500" title="" />     <img src="./S_Shots/sports.jpg" width="300" height="500" title="" /> 
 
-<img src="./S_Shots/detail.png" width="300" height="500" title="" />     <img src="./S_Shots/proceed.png" width="300" height="500" title="" /> 
+<img src="./S_Shots/detail.jpg" width="300" height="500" title="" />     <img src="./S_Shots/proceed.jpg" width="300" height="500" title="" /> 
 
-<img src="./S_Shots/shipping.png" width="300" height="500" title="" />     <img src="./S_Shots/about.png" width="300" height="500" title="" /> 
+<img src="./S_Shots/shipping.jpg" width="300" height="500" title="" />     <img src="./S_Shots/about.jpg" width="300" height="500" title="" /> 
