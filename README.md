@@ -22,7 +22,20 @@ This application is a kind of shopping mall application .Through this app people
 
 Wanna Run this project ? Just download it.  
 
-* As i build this project a long time ago , currently it gives an error in running . Because Android Studio version changes gradually. There are some things needs to be changed in the dependancy section . However you can easily run this project by fixing some dependency issues . Hopefully it will be fixed soon !   
+Here you will find some of the screenshots of the shopify app >>
 
+<img src="./S_Shots/login.png" width="300" height="500" title="" />     <img src="./S_Shots/log2.png" width="300" height="500" title="" /> 
 
-Here you will find some of the screenshots of the shopify app > https://github.com/nirvik-alpha/shopify/tree/main/Some%20ScreenShots
+<img src="./S_Shots/reg.png" width="300" height="500" title="" />     <img src="./S_Shots/home.png" width="300" height="500" title="" /> 
+
+<img src="./S_Shots/share.png" width="300" height="500" title="" />     <img src="./S_Shots/feedback.png" width="300" height="500" title="" /> 
+
+<img src="./S_Shots/log.png" width="300" height="500" title="" />     <img src="./S_Shots/category.png" width="300" height="500" title="" /> 
+
+<img src="./S_Shots/fashion.png" width="300" height="500" title="" />     <img src="./S_Shots/elec.png" width="300" height="500" title="" /> 
+
+<img src="./S_Shots/grocery.png" width="300" height="500" title="" />     <img src="./S_Shots/sports.png" width="300" height="500" title="" /> 
+
+<img src="./S_Shots/detail.png" width="300" height="500" title="" />     <img src="./S_Shots/proceed.png" width="300" height="500" title="" /> 
+
+<img src="./S_Shots/shipping.png" width="300" height="500" title="" />     <img src="./S_Shots/about.png" width="300" height="500" title="" /> 
